@@ -38,7 +38,7 @@ PHANTOMJS_NATIVE_ARGS = [
     'remote-debugger-port',
     'remote-debugger-autorun',
     'script-encoding',
-    'ssl-version',
+    'ssl-protocol',
     'web-security',
 ]
 CASPER_ARGS = []
